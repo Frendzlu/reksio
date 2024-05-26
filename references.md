@@ -114,9 +114,24 @@
 
 # Reksio i Czarodzieje
 ## Wewnętrzne
+- "A liczba jego łabądek łabądek, bałwanek bałwanek (2288)" - kod do drzwi w RiU
+- Rzeźby Romana Motykiusza
+- Tablica ogłoszeniowa na parterze ratusza - rzeczywiste zdjęcie tablicy z biura Aidem Media
+- Piklibia - Piklib, silnik do gier
+- "Reksiu, spójrz jakie piękne zjawiska Krassowe, to chyba robota Krassnoludków" ~ Kretes, po przybyciu do Piklibii. Twórcą Pikliba był Piotr Krassuski
+- "Architektura Piklibii charakteryzuje się tym, że wszędzie są dziury" - autokrytyka architektury silnika gier Reksia
 ## Rzeczywiste
 - Logo AM jako Ouroboros
+- Szpielmauster - Spiel Master, czyli Game Master, rola którą Szpielmauster pełnił w Piklibii
+- Kula Budyniu - Fireball
+- Al Chomik - alchemik
+- "Płyn na porost wąsów"
+- MiotłoMarkt - MediaMarkt
+- Informatyczny żargon Skaczących Wojów: wojowie "wysypują się",
+"zaraz się wysypiesz, jakem Array [plik .arr] z Commonu", "Jestem Exec ze Starych Źródeł, siła 7, moc 3", "Poznaj siłę dzielnego Buttona z Panelu Dolnego", "Wykryj TĘ kolizję, hayaa!", "Twój timer dobiega końca!", "Wracaj do debuga!", "Jaki jest twój priorytet [z-index], wojowniku?!"
 ## Literacko-Filmowe
+### Mitologiczne
+- Kamienie syzyfowe na plakacie
 ### Matrix
 - Magix
 - Burektor Mateusz - Morfeusz
@@ -127,8 +142,28 @@
 - Biały Królik
 - Przejście przez lustro
 ### Silmarilion, LotR, Hobbit
+- Barandalf Biały - Gandalf Biały
+- Prowincja Tam i Z Powrotem - nawiązanie do Hobbita
+- Al Chomik udaje się na wczasy do Chommitonu - Hobbitonu
+### Arabella (czechosłowacki serial)
+- Chrumburak - Rumburak
 ### Harry Potter
 - Babole - Mugole
+- Ten, Który Tak Potwornie Mąci - Ten, Którego Imienia Nie Wolno Wymawiać
+- Gulguldryk Gryfindyk - Godryk Gryffindor
+- Serpentus Snake - Severus Snape
+- Waldemar "Waldi" Mors - Voldemort
+- Papuga Norweska Błękitna - system klasyfikacyjny smoków w Harrym Potterze
+- Hasła do furty to smakołyki, zupełnie jak do biura Dumbledora
+- Bambus 2000 - Nimbus 2000
 ### Baśnie Braci Grimm
 - "Lustereczko, powiec przecie" ~ Burektor Mateusz
+### Dziady cz III
+- "A liczba jego 2288" - przepowiednia RiC nawiązująca do tej księdza Piotra
+### Czarnoksięźnik z krainy Oz
+- Blaszany drwal i strach na wróble jako obiekty do trenowania zaklęć
+### Piosenka Maryli Rodowicz "Wsiąść do pociągu"
+- Al Chomik sprzedaje "kamień zielony, do ściskania w ręku"
+### Krecik (serial)
+- "Smokręt? no nie wyglądasz mi na legendarnego kreta, co jak głosi legenda, pokonał świetnego Jeżyka w boju" ~ Kretes - nawiązanie do bohaterów
 ## Gry
