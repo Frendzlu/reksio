@@ -125,6 +125,17 @@
 - Kura trojańska na ziemi przy Aliżabie-jadze, z RiSP
 - Papugi z RiSP (i to, że nikt nie rozumie "zwietrzałego grogu")
 - Posąg Reksiowego Sfinksa w Bobrze
+- Self inserty twórców omawiają tworzenie gier z serii Reksia:
+    - "A może dla odmiany wszystko będzie mroczne i niebieskie?" ~ Suseł - Mroczne i niebieskie to określenie ukute przez Jarka Lulę na techniki rysunku Bartka Brosza
+    - "A gdyby tak coś wielkiego z twarogu" ~ Suseł - Posąg Boga Twaroga
+    - "Mam! On tam po prostu buduje wielkie jajo." ~ Suseł
+    - "Właśnie wymyśliłem Gadający Kamień, Który Mówi" ~ Marcowy Zając
+    - "Mmmm. O! Mam pomysł! Powiedzmy, że on wchodzi do takiego pomieszczenia, gdzie są szuflady, grzyb, i tam, co ty mówiłeś wcześniej? Kilka tajemniczych postaci, tak? Tak." ~ Szalony Kapelusznik
+    - "Mam nowy, świetny, doskonały pomysł. No to jest niezły pomysł. Dobra, robimy tak, że wstawiamy adapter, wieszamy butelki, i on tam wchodzi że niby ma tej królewnie. Ale tak naprawdę trzeba przed wioską normalnie na tych kurach, co wy na to?" ~ Kapelusznik - zagadka muzyczna z RiSP
+    - "Słuchajcie, my mamy prawa do Psa, Który Jeździł Koleją" ~ Kapelusznik
+    - "I jeszcze proponuję, żeby Reksio jeszcze raz się znalazł w sytuacji bez wyjścia, tak jak tam na początku zupełnie. Bo to nam da trochę czasu" ~ Kapelusznik - nawiązując do samego początku gry
+    - "No dobra, a kto w końcu był tym złym?" ~ Suseł
+      "Moja z Rafałkiem" ~ Zając - nawiązanie do kolegi Jarka z wojska, mającego syna Rafałka i zaczynającego tak każde zdanie. Oznaczało "Nie mam pojęcia" lub "Ja, a bo co?"
 ## Rzeczywiste
 - Logo AM jako Ouroboros
 - Szpielmauster - Spiel Master, czyli Game Master, rola którą Szpielmauster pełnił w Piklibii
@@ -136,9 +147,12 @@
 "zaraz się wysypiesz, jakem Array [plik .arr] z Commonu", "Jestem Exec ze Starych Źródeł, siła 7, moc 3", "Poznaj siłę dzielnego Buttona z Panelu Dolnego", "Wykryj TĘ kolizję, hayaa!", "Twój timer dobiega końca!", "Wracaj do debuga!", "Jaki jest twój priorytet [z-index], wojowniku?!"
 - Krasnoludek Semafor - nawiązanie do studia filmowego w Łodzi, pierwszego w Polsce
 - "A według mnie za wszystkim stoi Grupa Trzymająca Władzę" ~ Barandalf - Teoria spiskowa Rywin-Michnik
+- Tytuł utworu podczas lotu miotłą "Miotłą bliżej" - Reklama LOTu "Lotem bliżej"
 ## Literacko-Filmowe
 ### Mitologiczne
 - Kamienie syzyfowe na plakacie
+- Grecki sfinks na rzeźbach
+- Zagadka Gąsienicy - Zagadka sfinksa
 ### Matrix
 - Magix
 - Burektor Mateusz - Morfeusz
@@ -148,6 +162,15 @@
 ### Alicja w Krainie Czarów
 - Biały Królik
 - Przejście przez lustro
+- Marcowy Zając - Jarek Lula (self insert)
+- Szalony Kapelusznik - Krzysztof Hrynkiewicz (self insert)
+- Senna Popielica (suseł) - Bartek Brosz
+- Herbaciane przyjęcie
+- Kot z Cheshire
+- Pan Gąsienica - Tomasz Hechliński (self insert)
+- Grzyb Pomniejszający i ciastko powiększające
+### Świat dysku
+- Świat Reksia (w rozmowie self-insertów twórców) miał znajdować się na ślimaku, jak jest to na globusie w gabinecie Gryfindyka
 ### LotR, Hobbit
 - Barandalf Biały - Gandalf Biały
 - Prowincja Tam i Z Powrotem - nawiązanie do Hobbita
@@ -173,6 +196,8 @@
 - "Czas zacieśnić pierścień podejrzeń" ~ Barandalf
 - "Spróbujcie je [wskazówki] wszystkie zgromadzić, i ze sobą związać" ~ Barandalf - Poemat Pierścienia
 - "Grupa Trzymająca Władzę (Pierścienia)"
+- Niewykorzystane wavy: "Fordo, Merol, Pingwin! A co wy tu robicie sami w lesie?! Marsz do domu!" ~ Bulbo - Frodo, Merry, Pippin
+- Niewykorzystane wavy: "Jak wam się podoba nasz Bordor?" ~ Legolas - Mordor
 ### Arabela (czechosłowacki serial)
 - Chrumburak - Rumburak
 ### Harry Potter
@@ -201,6 +226,8 @@
 - Lampa a'la'dynia - Lampa Alladyna
 - "Dżin z Lampy Alladyna i Lampy Alladyna 2"
 - Kretes o domku Chrumburaka: "Taki se, ale przynajmniej murowany. Smok nie stopi, wilk nie zdmuchnie"
+### Opowieści z Narni
+- "A jeszcze przed chwilą mówiłeś, że to Lew, Czarownica i Stara Szafa" ~ Chrumburak
 ### Dziady cz III
 - "A liczba jego 2288" - przepowiednia RiC nawiązująca do tej księdza Piotra
 ### Czarnoksięźnik z krainy Oz
@@ -217,6 +244,6 @@
 - Kot w butach w graficznej wersji ze Shreka
 ### Kubuś Puchatek
 - (na widok wpół zniszczonej chatki z piernika) "To taka chatka... pół-chatka, hehehe" ~ Kretes
+## Gry
 ### Sonic
 - Niebieski jeż z jabłkiem (wątpliwe)
-## Gry
